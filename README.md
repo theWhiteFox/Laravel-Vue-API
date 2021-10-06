@@ -1,4 +1,4 @@
-# Laravel API
+# Laravel Vue API
 On my blog [thewhitefox.ninja](https://www.thewhitefox.ninja/) part of my learning Laravel & VueJS
 
 Running the API
