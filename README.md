@@ -5,8 +5,16 @@ Running the API
 
 Create the database (and database user if necessary) and add them to the .env file.
 
+DB_CONNECTION=mysql
+
+DB_HOST=127.0.0.1
+
+DB_PORT=3306
+
 DB_DATABASE=your_db_name
-DB_USERNAME=your_db_user
+
+DB_USERNAME=root
+
 DB_PASSWORD=your_password
 
 Then install, migrate, seed:
